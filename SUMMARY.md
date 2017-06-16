@@ -6,5 +6,7 @@
 * [HTML](README-html.md)
     * [HTML 5](html5.md)
 * [git](README-git.md)
-    * [Shockt5](Shockt5.md)
+    * [socks5](git-socst5.md)
+* [Atom](README-Atom)
+    * [socks5](Atom-socks5.md)
 
