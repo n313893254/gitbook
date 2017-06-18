@@ -17,16 +17,43 @@
 - `<title>`
 
 #### 内容分区
+- `<address>`
+- `<article>`
+- `<aside>`
+- `<footer>`
+- `<h1-h6>`
+- `<header>`
+- `<nav>`
+- `<section>`
+- `<hgroup>`
 
 #### 文本内容
+- `<blockquote>`
+- `<dd>`
+- `<div>`
+- `<hr>`
+- `<li>`
+- `<main>`
+- `<ol>`
+- `<p>`
+- `<ul>`
 
 #### 内联文本语义
+- `<a>`
+- `<abbr>`
+- `<b>`
+- `<br>`
+- `<code>`
+- `<span>`
+- `<strong>`
 
 #### 图片和多媒体
 
 #### 内嵌内容
 
 #### 脚本
+- `<scipt>`
+- `<canvas>`
 
 #### 编辑标识
 
@@ -42,3 +69,6 @@
 #### 交互元素
 
 #### Web 组件
+- `<element>`
+- `<slot>`
+- `<template>`
